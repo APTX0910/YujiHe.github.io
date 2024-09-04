@@ -21,10 +21,10 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: naoc.jpg
+        filename: naoc1.jpg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: 'text-align: justify; font-size: 0.9em;'
   - block: experience
     content:
       username: admin
